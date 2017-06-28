@@ -1,0 +1,1 @@
+Aplikacja ³aduje siê automatycznie po zaladowaniu strony i wyœwietla 10 ostatnich newsów. Nie uda³o mi siê wykonaæ filtrowania wyników.
